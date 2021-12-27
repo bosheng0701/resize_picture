@@ -5,6 +5,7 @@ Environmental requirements
 1. python3
 2. pip install opencv-python
 
+Steps
 1. Download the py file 
 2. Run py
 3. Type the directory name of your photos that you want to resize
